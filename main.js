@@ -1,4 +1,4 @@
-const secretPhrases = ["that","window","you","break","hangman","neck","winner"]
+const secretPhrases = ["that","window","you","break","hangman","neck","winner","desk","animal","cars","chairs","cheetah","develpoer","words","woman","looser"]
 
 let randomItem = ""
 let clicked =[]
